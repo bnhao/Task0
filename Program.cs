@@ -1,4 +1,10 @@
-﻿using System;
+// Resources:
+// https://learn.microsoft.com/en-us/dotnet/api/system.array.reverse?view=net-8.0
+// https://learn.microsoft.com/en-us/dotnet/api/system.int32.tryparse?view=net-8.0
+// https://learn.microsoft.com/en-us/dotnet/api/system.io.file.writealllines?view=net-8.0
+// https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.-ctor?view=net-8.0#system-collections-generic-list-1-ctor(system-int32)
+
+using System;
 using System.IO;
 
 class Program
